@@ -5,4 +5,4 @@ knn</br>
 decision tree</br>
 linear _regression</br>
 multiple _linear_regression</br>
-and optimize model:))
+and optimize model

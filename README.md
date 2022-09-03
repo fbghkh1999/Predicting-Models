@@ -1,7 +1,7 @@
 # Multi_predict_model_base-on-different-datasets
  work on some data set and try to find best model for them and analyze them too
-## models are :
-knn
-decision tree
-linear _regression
-multiple _linear_regression
+## models are :</br>
+knn</br>
+decision tree</br>
+linear _regression</br>
+multiple _linear_regression</br>

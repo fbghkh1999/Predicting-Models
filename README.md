@@ -5,4 +5,5 @@ knn</br>
 decision tree</br>
 linear _regression</br>
 multiple _linear_regression</br>
+deeplearning model CNN rnn</br>
 and optimize model
